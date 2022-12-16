@@ -5,19 +5,19 @@ console.log('We stay in Hyderabad')
 const a=2;
 const b=3;
 const sum = a+b;
-console.log('Addition of two numbers', sum)
+console.log('Addition of two numbers', sum);
 
 const c=9;
 const d=3;
 const difference= a-b;
-console.log('Substraction of two numbers', difference)
+console.log('Substraction of two numbers', difference);
 
 const e=2;
 const f=3;
 const multiply = a*b;
-console.log('Multiplication of two numbers', multiply)
+console.log('Multiplication of two numbers', multiply);
 
 const g=9;
 const h=3;
 const div = a/b;
-console.log('Divisionof two numbers', div)
+console.log('Divisionof two numbers', div);
