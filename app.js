@@ -7,6 +7,7 @@ const b=3;
 const sum = a+b;
 console.log('Addition of two numbers', sum);
 
+
 const c=9;
 const d=3;
 const difference= a-b;
@@ -21,3 +22,4 @@ const g=9;
 const h=3;
 const div = a/b;
 console.log('Divisionof two numbers', div);
+
