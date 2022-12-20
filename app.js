@@ -24,4 +24,5 @@ const h=3;
 const div = a/b;
 console.log('Divisionof two numbers', div);
 
+console.log('Maths');
 
