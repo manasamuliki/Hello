@@ -1,6 +1,7 @@
 console.log("Hello World")
 console.log('Manasa')
 console.log('We stay in Hyderabad')
+console.log('Native place is vizag')
 
 const a=2;
 const b=3;
